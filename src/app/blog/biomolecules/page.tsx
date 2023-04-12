@@ -21,6 +21,9 @@ Biomolecules are organic macromolecules used in various body processes. They are
 <br />
 
 ### Proteins
+Proteins play a crucial role in many cellular processes. They are involved in structural support, catalysis of chemical reactions, transport of molecules, regulation of gene expression, and immune responses. As enzymes, proteins are responsible for speeding up chemical reactions. Some proteins also serve as hormones, such as insulin, which regulates glucose levels in the blood, or as molecular channels and pumps in cell membranes, facilitating the transport of ions and molecules across the membrane.
+<br />
+<br />
 Amino acids are the building blocks of proteins, they all follow a general chemical formula, containing one amino group(NH<sub>2</sub>), one carboxyl group(COOH), one carbon atom with hydrogen(CH) and a unique residue side chain (R)
 ![Illustration of amino acid](https://www.researchgate.net/publication/332440930/figure/fig1/AS:748220326084617@1555401035668/Amino-acids-general-formula.jpg)
 There are 20 naturally ocurring amino acids, differentiated by their residue side chain (R); nine of these are considered essential(
@@ -41,6 +44,9 @@ This amino acids can then bond together in chains, forming polypeptides, that ca
 <br />
 <br />
 ### Carbohydrates
+Carbohydrates are the primary source of energy for cells, by serving as a key component in the formation of ATP (adenosine triphosphate) through cellular respiration. Carbohydrates also serve structural roles, such as cellulose in plants.
+<br />
+<br />
 Carbohydrates can be described by the general formula (CH<sub>2</sub>O)<sub>n</sub>. As can be hinted by its name, carbohydrates consists of carbon (C) and hydrates (H<sub>2</sub>O). The simplest instances of carbohydrates are monosaccharides, one of the most common monosaccharides, is glucose:  
 ![Glucose](https://www2.chem.wisc.edu/deptfiles/genchem/netorial/modules/biomolecules/modules/carbs/gluclin1.gif)
 As one can see from the image, glucose mainly consists of carbon atoms bonded with hydroxyl groups and hydrogen. At the end of the glucose molecule, there is a carbonyl group (C=O) with a hydrogen atom, forming an aldehyde group (CHO). This aldehyde group can react with the hydroxyl group at the next to last carbon atom on the other end (carbon nr 5 from the top). This happens by the hydroxyl group initiating a nucleophilic attack by donating its lone pair of electrons to the electrophilic carbonyl carbon, which breaks the double bond, and forms a new bond between the oxygen atom from the hydroxyl group and the carbonyl carbon. This results in a cyclic structure, with the oxygen atom acting as a bridge between carbon 1 (the carbonyl carbon) and carbon 5.
@@ -56,14 +62,16 @@ depending on if the first monsaccharide was the alpha or beta variant, the bindi
 This glycosid bond can repeat for multiple monosaccharides, building up to polysaccharides. 
 
 ### Lipids
+Lipids can serve as energy storage molecules (fats and oils), components of cell membranes (phospholipids) and signaling as  steroids.
+<br />
+<br />
 Lipids are vaguely defined as molecules that are not soluble in water. This often means they are non polar. Categories of lipids include:
 - Fats
-- Phospholipides
+- Phospholipids
 - Steroids
-- Waxes
 
 ##### Fats
-A fatty acid is a chain (usually 2-18 carbons) and a carboxylic acid(COOH) at the end. The alcohol glycerol(also reffered to as propantriol) is an alcohol with three hydroxylgroups(CH₂OH-CHOH-CH₂OH), binding to each of the three carbon atoms.
+A fatty acid is a chain (usually 2-18 carbons) and a carboxylic acid(COOH) at the end. The alcohol glycerol(also reffered to as propanetriol) is an alcohol with three hydroxylgroups(CH₂OH-CHOH-CH₂OH), binding to each of the three carbon atoms.
 This alcohol along with the carboxylic acid from the fatty acid can react via a condensation reaction, where the hydroxyl group leaves its hydrogen, and the carboxylic acid leaves its hydroxylgroup and together form water. 
 After this the residue oxygen atom binds what is left of the carboxylic acid(the carbonyl group) with the carbon of the glycerol. Thus an ester bond is formed, this is repeated three times for each carbon atom in the glycerol molecule. 
 ![Formation of triglyceride](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Aa678eb72d1c4f474a77b99c65a056b6aed8723d9d2c3bdc390384fd3%2BIMAGE_THUMB_POSTCARD_TINY%2BIMAGE_THUMB_POSTCARD_TINY.1)
@@ -78,18 +86,17 @@ Steroids are molecules composed of precisely 17 carbon atoms, organized into thr
 ![Steroid example](https://chem.libretexts.org/@api/deki/files/128218/clipboard_e774c891d65106cfde47c8763bc77c0b8.png?revision=1)
 
 ### Nucleotides
-Nucleotides are molecules consistent of a pentose sugar, one or multiple phosphate ions and a nitrogenous base.
+Nucleotides are the building blocks of nucleic acids, DNA and RNA, which store and transmit genetic information.  Nucleotides also play a vital role in cellular energy metabolism, as ATP. They can be defined are molecules consisting of a pentose sugar, one or multiple phosphate ions and a nitrogenous base.
 <br />
 <br />
-
 The two most common pentose sugars in nucleotides are ribose and deoxyribose. They are both very similiar
 ![ribose and deoxyribose](https://www.vedantu.com/question-sets/95618de3-2e47-469e-a1f9-2825319f896b3753831585250144778.png)
-As on might notice, deoxyribose has the same appearance exact appearance of ribose with a small difference in the absence of an oxygen atom on the 2' carbon position (de oxy - without oxygen). 
+As one might notice, deoxyribose has the same exact appearance of ribose with a small difference in the absence of an oxygen atom on the 2' carbon position (de oxy - without oxygen). 
 #### Nitrogenous bases
-There are five nitrogenous bases, divided into two categories, purines(adenine and guanine) and pyramidines(Thymine, Uracil and Cytosine). A nitrogenous base is an organic molecule with nitrogen atoms that can act like a base. Purines have two carbon rings, whilst pyramidines have only one carbon ring, when bonding a purine binds to a pyramidine.
+There are five nitrogenous bases, divided into two categories, purines(adenine and guanine) and pyrimidines(Thymine, Uracil and Cytosine). A nitrogenous base is an organic molecule with nitrogen atoms that can act like a base. Purines have two carbon rings, whilst pyrimidines have only one carbon ring, when bonding a purine binds to a pyramidine.
 ![Nitrogenous bases](https://ib.bioninja.com.au/_Media/nitrogenous-bases_med.jpeg)
 <br />
-One example of a nucleotide is ATP(adenosine triphosphate), which consists of three phosphate ions, ribose and the nitrogenous base adenin ( ribos and adenin together form adenosine ). ATP is present during cellular respiration
+One example of a nucleotide is ATP(adenosine triphosphate), which consists of three phosphate ions, ribose and the nitrogenous base adenine ( ribos and adenin together form adenosine ). ATP is present during cellular respiration
 ![ATP](https://www.worldofmolecules.com/life/ATP.png)
 
 
