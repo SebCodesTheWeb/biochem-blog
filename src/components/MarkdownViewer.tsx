@@ -37,13 +37,13 @@ export const MarkdownViewer: typeof Markdown = (props) => (
           component: (props) => <Heading fontSize='2.25rem' {...props} />,
         },
         h3: {
-          component: (props) => <Heading fontSize='1.75rem' {...props} />,
+          component: (props) => <Heading fontSize='1.75rem' {...props} my="2" />,
         },
         h4: {
-          component: (props) => <Heading fontSize='1.5rem' {...props} />,
+          component: (props) => <Heading fontSize='1.5rem' {...props} mb="1" mt="2"/>,
         },
         h5: {
-          component: (props) => <Heading fontSize='1.25rem' {...props} />,
+          component: (props) => <Heading fontSize='1.20rem' {...props} mb="1" mt="2"/>,
         },
         h6: {
           component: (props) => <Heading fontSize='1rem' {...props} />,
