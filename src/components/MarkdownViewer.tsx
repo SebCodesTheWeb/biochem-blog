@@ -31,13 +31,13 @@ export const MarkdownViewer: typeof Markdown = (props) => (
           component: Text,
         },
         h1: {
-          component: (props) => <Heading fontSize='3rem' {...props} />,
+          component: (props) => <Heading fontSize='2.75rem' {...props} />,
         },
         h2: {
-          component: (props) => <Heading fontSize='2.5rem' {...props} />,
+          component: (props) => <Heading fontSize='2.25rem' {...props} />,
         },
         h3: {
-          component: (props) => <Heading fontSize='2.0rem' {...props} />,
+          component: (props) => <Heading fontSize='1.75rem' {...props} />,
         },
         h4: {
           component: (props) => <Heading fontSize='1.5rem' {...props} />,
@@ -61,7 +61,11 @@ export const MarkdownViewer: typeof Markdown = (props) => (
           component: Box,
         },
         img: {
-          component: Image,
+          component: (props) => (
+            <Box p='4'>
+              <Image alt='' {...props} />
+            </Box>
+          ),
         },
         input: {
           component: Input,
