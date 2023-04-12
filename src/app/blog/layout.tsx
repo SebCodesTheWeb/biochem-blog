@@ -13,9 +13,9 @@ export default function BlogLayout({
     <HStack w='full' alignItems='top' spacing='0'>
       {isDesktop && (
         <>
-          <Stack w='500px' />
+          <Stack w='20%' />
           <Stack
-            w='500px'
+            w='20%'
             h='100vh'
             position='fixed'
             left='0'
