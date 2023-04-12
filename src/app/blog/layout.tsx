@@ -10,7 +10,12 @@ export default function BlogLayout({
   const [isDesktop] = useMediaQuery('(min-width: 1000px')
 
   return (
-    <HStack w='full' alignItems='top' spacing='0'>
+    <Stack
+      w='full'
+      alignItems='top'
+      spacing='0'
+      direction={isDesktop ? 'row' : 'column'}
+    >
       {isDesktop && (
         <>
           <Stack w='20%' />
@@ -26,10 +31,10 @@ export default function BlogLayout({
       )}
       {!isDesktop && (
         <>
-          <Stack w='50px' />
+          <Stack h='50px' />
           <Stack
-            w='50px'
-            h='100vh'
+            h='50px'
+            w='full'
             position='fixed'
             left='0'
             top='0'
@@ -49,6 +54,6 @@ export default function BlogLayout({
           {children}
         </Stack>
       </Center>
-    </HStack>
+    </Stack>
   )
 }
