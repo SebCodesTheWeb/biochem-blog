@@ -49,7 +49,7 @@ export const MarkdownViewer: typeof Markdown = (props) => (
           component: (props) => <Heading fontSize='1rem' {...props} />,
         },
         a: {
-          component: Link,
+          component: (props) => <Link sx={{color: 'blue.500'}} {...props}/>,
         },
         code: {
           component: Code,
