@@ -15,7 +15,7 @@ Proteins play a crucial role in many cellular processes. They are involved in st
 
 <br />
 
-Continuing of that knowledge, let's elaborate on the structures of amino acids.
+Continuing of that knowledge, let us elaborate on the structures of amino acids.
 ![Illustration of amino acid](https://www.researchgate.net/publication/332440930/figure/fig1/AS:748220326084617@1555401035668/Amino-acids-general-formula.jpg)
 The carbon in the center of the above illustration is called the alpha carbon, hen the amino group binds directly to the alpha carbon. In the residue chain there might be another carbon, for which an amino group may bind, in which case the amino acids is called a beta amino acid. Alpha amino acids are strongly preferred in nature.
 
