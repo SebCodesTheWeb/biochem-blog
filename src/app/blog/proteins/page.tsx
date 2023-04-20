@@ -66,6 +66,8 @@ The final shape, is what determines the functionality of the protein, not the am
 
 ### Transport
 ### Enzyme
+Enzymes are catalysts that work by lowering the activation energy for reactions to take place. They have an active site, where its substrates(its subjects) may bind. At its active site it will put the substrates in positions which favour the desired reaction. The enzyme might require a co factor to work properly, this could be an organic compound or ion. They could regulate the activity of the enzyme and help take place in the reaction. When the substrate binds to the enzyme it creates an enzyme-substrate complex. Another inhibitor might bind to the enzyme at the active site(competitive) or on any other place of the enzyme(non competitive) to prevent the substrate from binding to the enzyme.
+
 ### Channel
 ### Receptor
 ### Motor
