@@ -28,14 +28,14 @@ The air that was breathed in likely consists of about 21% oxygen and 0.04% carbo
 
 ##### Gas exchange
 Going on a deeper chemical level, this is what occurs in the avioli during gas exchange. The oxygen(O<sub>2</sub>) is provided from the lungs, and reacts with Hemaglobin(Hb) from the blood: <br/>
-**O<sub>2</sub> + HHb <--> H<sup>+</sup> + HbO<sub>2</sub>** <br/>
+**O<sub>2</sub> + HHb ⇌ H<sup>+</sup> + HbO<sub>2</sub>** <br/>
 This hydrogen ion(H<sup>+</sup>) then reacts with hydrogen carbonate(HCO<sub>3</sub><sup>-</sup>) to free the carbon in the blood: <br/>
-**H<sup>+</sup> + HCO<sub>3</sub><sup>-</sup> <--> H<sub>2</sub>CO<sub>3</sub> <--> H<sub>2</sub>O + CO<sub>2</sub>** <br/>
+**H<sup>+</sup> + HCO<sub>3</sub><sup>-</sup> ⇌ H<sub>2</sub>CO<sub>3</sub> ⇌ H<sub>2</sub>O + CO<sub>2</sub>** <br/>
 The carbon dioxide is picked diffused into the alvioli and breathed out whilst the oxygen is now carried with the hemaglobin. In the cells, the same reaction takes place but backwards, were it starts with water and carbon dioxide from the cellular respiration and ends hydrogen carbonate and emptied hemaglobin(HHb).
 
-<br />
+<br / >
 
-The bohr effect is an important concept as in regards to how increased demand for oxygen is met. As an example, when a human is running they need more energy for their leg muscles, thus those muscles produce ATP and carbon dioxide as a product. This carbon dioxide makes the blood more acidic. This change in pH, a man named Christian Bohr discovered to cause a decrease in the affinity for oxygen of hemaglobin. This makes it more willing to drop of the oxygen. Thus it can supply more oxygen in those areas were it is more needed. Borh also found that increase in temperature or BPG(a substance secreted during anaerob ATP synthesis) cause a simliar decrease in oxygen affinity for hemaglobin.
+The bohr effect is an important concept as in regards to how increased demand for oxygen is met. As an example, when a human is running they need more energy for their leg muscles, thus those muscles produce ATP and carbon dioxide as a product. This carbon dioxide makes the blood more acidic(due to the increase in hydrogen carbonate). This change in pH, a man named Christian Bohr discovered to cause a decrease in the affinity for oxygen of hemaglobin. This makes it more willing to drop of the oxygen. Thus it can supply more oxygen in those areas were it is more needed. Borh also found that increase in temperature or BPG(a substance secreted during anaerob ATP synthesis) cause a simliar decrease in oxygen affinity for hemaglobin.
 
 ##### Measurement of breathing ability
 **Spirometry** is a common method of testing breathing ability by measuing the volume of air present within the lungs. This can often draw an air plotted against time diagram where the patient is instructed to breathe in as much air as possible and then exhale it.
